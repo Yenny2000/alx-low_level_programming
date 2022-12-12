@@ -1,7 +1,8 @@
 #include <stdio.h>
-/*
- * main - prints the alphabet in reverse
- * return - always 0
+/**
+ * main - entry
+ * Description: print the alphabet in reverse
+ * Return: Always 0
  */
 
 int main(void)

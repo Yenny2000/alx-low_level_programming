@@ -1,8 +1,9 @@
 #include <stdio.h>
 
-/*
- * main - prints all single digits number in base 10
- * return - always 0
+/**
+ * main - entry
+ * Description: print all single digits on base 10
+ * Return: always 0
  */
 
 int main(void)
@@ -14,3 +15,4 @@ int main(void)
 		printf("\n")
 
 		return (0)
+}

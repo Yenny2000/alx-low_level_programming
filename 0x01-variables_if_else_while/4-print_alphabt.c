@@ -1,8 +1,9 @@
 #include <stdio.h>
 
-/*
- * main - print all alphabets except q and e in lower case
- * return - always 0
+/**
+ * main - Entry point
+ * Description: print all alphabet except q and e in lower case
+ * Return: always 0
  */
 
 int main(void)

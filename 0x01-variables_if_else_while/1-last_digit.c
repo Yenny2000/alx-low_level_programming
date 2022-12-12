@@ -2,8 +2,9 @@
 #include <stdlib.h>
 #include <time.h>
 
-/*
+/**
  * main - Entry
+ * Description: Last digit of number
  * Return: Always 0
  */
 int main(void)
