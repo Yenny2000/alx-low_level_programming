@@ -1,4 +1,7 @@
 #include <stdio.h>
+#include <stdlib.h>
+#include <time.h>
+
 /**
  * main - entry
  * Description: Print all possible combinations of single digit numbers
